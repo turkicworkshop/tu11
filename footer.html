@@ -1,9 +1,31 @@
 <footer id="fake-navbar" role="navigation" aria-label="Footer navigation">
   <nav class="footer-nav">
-    <a href="index.html">Home</a>
-    <a href="cfa.html">Call For Abstracts</a>
-    <a href="reg.html">Registration</a>
-    <a href="program.html">Program</a>
-    <a href="info.html">Information</a>
+    <a data-path="index.html">Home</a>
+    <a data-path="cfa.html">Call For Abstracts</a>
+    <a data-path="reg.html">Registration</a>
+    <a data-path="program.html">Program</a>
+    <a data-path="info.html">Information</a>
   </nav>
 </footer>
+
+<script>
+(function () {
+  // Base prefix for GitHub Pages project site vs local preview
+  var base = (location.hostname.endsWith('github.io') ? '/tu11/' : '/');
+
+  // Rewrite hrefs from data-path attributes
+  document.querySelectorAll('#fake-navbar a[data-path]').forEach(function(a) {
+    a.href = base + a.getAttribute('data-path');
+  });
+
+  // Highlight current page
+  var here = location.pathname.replace(/\/+$/, '');
+  document.querySelectorAll('#fake-navbar a[href]').forEach(function(a) {
+    var href = a.getAttribute('href').replace(/\/+$/, '');
+    var isHome = href.endsWith('/index.html') || href === base;
+    var match = (isHome && (here === base.slice(0,-1) || here.endsWith('/index.html')))
+             || here.endsWith(href);
+    if (match) a.setAttribute('aria-current', 'page');
+  });
+})();
+</script>
