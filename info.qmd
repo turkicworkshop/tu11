@@ -1,0 +1,26 @@
+---
+title: ""
+toc: false
+format: html
+listing:
+  contents: posts
+  type: grid
+  sort: "date desc"
+  fields: [title, description, categories, date]
+  page-size: 12
+  feed: false
+  categories: false
+  filter-ui: true
+---
+
+## Welcome
+
+Here you’ll find practical information for **TU+ 11 (MIT, Apr 11–12, 2026)**—from presenter guidelines to venue maps, travel tips, and dining.
+
+::: callout-note
+**Quick tip:** Use the filters above the cards to jump straight to what you need.
+:::
+
+## Details by Topic
+
+The cards below are “posts” that we keep updated as plans finalize. Click any card to read the full details.

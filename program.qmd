@@ -1,0 +1,124 @@
+---
+title: ""
+format: html
+---
+
+
+```{r}
+#| label: setup-program
+#| echo: false
+#| message: false
+#| warning: false
+
+library(dplyr)
+library(tidyr)
+library(gt)
+library(lubridate)
+options(dplyr.summarise.inform = FALSE)
+
+# =========================
+# EDITABLE PROGRAM DATA
+# (no parallel sessions)
+# =========================
+prog <- tibble::tribble(
+  ~day, ~date,        ~start, ~end,   ~type,      ~title,                                   ~speaker,            ~room,
+  "Day 1", "2026-04-11", "09:00", "09:15", "opening",  "Welcome & Opening Remarks",              "Organizers",         "Auditorium",
+  "Day 1", "2026-04-11", "09:15", "10:15", "invited",  "Agreement Attraction in Turkic Production","Utku Turk (UMD)",    "Auditorium",
+  "Day 1", "2026-04-11", "10:15", "10:45", "break",    "Coffee Break",                           "",                   "Lobby",
+  "Day 1", "2026-04-11", "10:45", "12:15", "talks",    "Syntax & Morphology I (Contributed)",    "Multiple",           "Auditorium",
+  "Day 1", "2026-04-11", "12:15", "14:00", "lunch",    "Lunch",                                  "",                   "Dining Area",
+  "Day 1", "2026-04-11", "14:00", "15:30", "talks",    "Semantics & Pragmatics (Contributed)",   "Multiple",           "Auditorium",
+  "Day 1", "2026-04-11", "15:30", "16:00", "break",    "Coffee Break",                           "",                   "Lobby",
+  "Day 1", "2026-04-11", "16:00", "17:30", "posters",  "Poster Session I",                       "Posters",            "Hall",
+
+  "Day 2", "2026-04-12", "09:00", "10:00", "invited",  "Title TBA",                              "Invited Speaker 2",  "Auditorium",
+  "Day 2", "2026-04-12", "10:00", "10:30", "break",    "Coffee Break",                           "",                   "Lobby",
+  "Day 2", "2026-04-12", "10:30", "12:00", "talks",    "Syntax & Morphology II (Contributed)",   "Multiple",           "Auditorium",
+  "Day 2", "2026-04-12", "12:00", "13:30", "lunch",    "Lunch",                                  "",                   "Dining Area",
+  "Day 2", "2026-04-12", "13:30", "15:00", "talks",    "Sociolinguistics & Contact (Contributed)","Multiple",           "Auditorium",
+  "Day 2", "2026-04-12", "15:00", "15:30", "break",    "Coffee Break",                           "",                   "Lobby",
+  "Day 2", "2026-04-12", "15:30", "16:30", "closing",  "General Discussion & Closing",           "Organizers",         "Auditorium"
+)
+
+
+# Posters list
+posters <- tibble::tribble(
+  ~session, ~paper_title,                                    ~authors,
+  "Poster Session I", "Vowel Harmony Exceptions in Bashkir", "J. Poster; K. Author",
+  "Poster Session I", "Morphological Productivity in Sakha", "L. Poster",
+  "Poster Session I", "Quantifier Scope in Uzbek",           "M. Poster; N. Poster"
+)
+
+# ---------- helpers ----------
+hm <- function(x) format(strptime(x, format = "%H:%M"), "%H:%M")
+nice_day <- function(d) format(as.Date(d), "%A, %B %e, %Y")
+
+make_day_glance <- function(day_name) {
+  d <- prog %>% filter(day == day_name)
+  simple <- d %>%
+    transmute(Time = paste0(hm(start), "–", hm(end)),
+              What = dplyr::case_when(
+                type == "invited" ~ paste0("**Invited:** ", title, " — *", speaker, "*"),
+                type == "posters" ~ paste0("**Posters:** ", title),
+                type == "opening" ~ paste0("**Opening:** ", title),
+                type == "closing" ~ paste0("**Closing:** ", title),
+                TRUE ~ title
+              ),
+              Room = room)
+  gt(simple) |>
+    tab_header(title = md(sprintf("**%s** — %s", day_name, nice_day(d$date[1])))) |>
+    fmt_markdown(everything()) |>
+    tab_options(table.width = pct(100))
+}
+
+make_day_detail <- function(day_name) {
+  d <- prog %>% filter(day == day_name) %>% arrange(start)
+  tbl <- d %>%
+    transmute(
+      Time = paste0(hm(start), "–", hm(end)),
+      Type = stringr::str_to_title(type),
+      Title = dplyr::case_when(
+        type == "invited" ~ paste0("**", title, "**<br/><em>", speaker, "</em>"),
+        TRUE ~ title
+      ),
+      Room = room
+    )
+  gt(tbl) |>
+    fmt_markdown(c(Title)) |>
+    tab_header(title = md(sprintf("**%s — Detailed Schedule**", nice_day(d$date[1])))) |>
+    tab_options(table.width = pct(100))
+}
+
+```
+
+## At a glance
+
+::: {.panel-tabset}
+
+### Day 1
+
+```{r}
+#| echo: false
+make_day_detail("Day 1")
+```
+
+### Day 2
+
+```{r}
+#| echo: false
+make_day_detail("Day 2")
+```
+
+:::
+
+## Poster
+
+```{r}
+#| echo: false
+posters %>%
+  rename(`Poster session` = session, Title = paper_title, Authors = authors) %>%
+  gt() %>%
+  tab_header(title = md("**Poster Session**")) %>%
+  tab_options(table.width = pct(100))
+```
+

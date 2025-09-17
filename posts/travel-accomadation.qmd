@@ -1,0 +1,15 @@
+---
+title: "Travel & Accommodation"
+description: "Where to stay, booking tips, student rates, visa letters."
+date: 2026-01-16
+categories: [travel, accommodation]
+---
+
+## Accommodation
+- Suggested hotels (distance, price range), block codes if any.
+
+## Travel Tips
+- Airport options, international arrivals, SIMs, money.
+
+## Letters & Visas
+- How to request a letter, processing timelines.

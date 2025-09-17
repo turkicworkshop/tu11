@@ -1,0 +1,15 @@
+---
+title: "Dining"
+description: "Coffee, lunch options, dietary notes, group dinners."
+date: 2026-01-14
+categories: [dining, local]
+---
+
+## On/near Campus
+- Coffee spots, quick lunch, vegetarian/vegan/halal options.
+
+## Evening
+- Nearby restaurants (reservations, group-friendly).
+
+## Dietary Needs
+- How to notify organizers; labeling at catered events.

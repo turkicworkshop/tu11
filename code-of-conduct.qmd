@@ -1,0 +1,45 @@
+---
+title: ""
+format: html
+---
+
+# Code of Conduct
+
+TU+ is committed to providing a safe, welcoming, and harassment-free workshop for everyone—regardless of gender, gender identity or expression, sexual orientation, disability, physical appearance, body size, race, age, religion, language use, ethnicity, or nationality. Harassment of any kind will not be tolerated. Participants who violate these rules may be sanctioned or expelled at the discretion of the organizers.
+
+## Unacceptable Behavior
+
+Harassment includes (but is not limited to):
+
+- Verbal comments that reinforce social hierarchies based on any protected characteristic  
+- Displaying sexual or violent imagery in public spaces  
+- Deliberate intimidation, stalking, or following  
+- Targeted exclusion or encouragement of ostracism  
+- Harassing photography or recording  
+- Sustained disruption of talks or events  
+- Inappropriate physical contact  
+- Unwelcome sexual attention  
+- Advocating for, or encouraging, any of the above  
+
+These standards apply across **all workshop activities**, including in-person events, online platforms (email, chat, social media), and social gatherings related to the workshop.
+
+## Enforcement
+
+Participants asked to stop any harassing behavior are expected to comply immediately. Organizers may take any actions needed to maintain a respectful environment, including warnings, removal from events without refund, barring future participation, notifying institutional/funding bodies, or contacting venue security or law enforcement.
+
+## Reporting
+
+If you experience or witness a violation, or have other concerns, please contact the organizing team as soon as possible:
+
+- **Email:** [turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com)  
+- **In person:** You may also approach any organizer during the workshop.  
+
+Organizers will take all good-faith reports seriously. We will make every effort to respect reporters’ privacy while assessing risk and determining appropriate responses. Retaliation for reporting or for assisting in an investigation will not be tolerated.
+
+## MIT Jurisdiction
+
+Because TU+ 11 is hosted at **MIT**, the workshop also falls under MIT’s institutional policies and procedures. Reports of misconduct may therefore be referred to MIT’s offices and handled in accordance with MIT’s rules and Massachusetts law, in addition to actions taken by the TU+ organizers.
+
+## Scope
+
+This Code applies to all TU+ activities, including talks, poster sessions, receptions, breaks, and any online/remote interaction hosted by the workshop.

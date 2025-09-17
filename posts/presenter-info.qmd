@@ -1,0 +1,18 @@
+---
+title: "Presenter Info"
+description: "Talk & poster guidelines, timing, AV setup, file formats."
+date: 2026-01-20
+categories: [presenters, logistics]
+---
+
+## Talk Guidelines
+- Length, Q&A format, session chairing, timing cards.
+
+## Poster Guidelines
+- Size, orientation, recommended layout, printing tips.
+
+## AV & File Formats
+- Slides (PDF/PPT), adapters, laser pointers, screen resolution.
+
+## Accessibility for Presenters
+- Microphone use, captioning notes, accessible color choices.

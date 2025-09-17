@@ -1,0 +1,79 @@
+---
+# title:
+# subtitle:
+# date:
+format: html
+toc: false
+---
+
+## About
+
+TU+ is an annual workshop focusing on all aspects of linguistic research on **Turkic languages**, as well as on **languages in contact with Turkic** and on **languages spoken in regions where Turkic languages are spoken**. TU+ showcases theoretically informed and data-driven work across phonology, morphology, syntax, semantics, pragmatics, psycholinguistics, neurolinguistics, historical linguistics, and computational approaches.
+
+::: callout-note
+Since 2019, papers presented at TU+ have been invited to appear in an online proceedings volume distributed by the Linguistic Society of America.
+:::
+
+---
+
+## Code of Conduct
+
+Please review our **Code of Conduct** before participating.  
+**Link:** [Code of Conduct](code-of-conduct.html)
+
+---
+
+## Questions?
+
+Email the organizers at **[turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com)**.  
+We’re happy to help with submissions, accessibility, and logistics.
+
+---
+
+## Permanent Site
+
+For information on earlier editions, proceedings, and history, see the permanent site:  
+**Link:** [TU+ Permanent Site](https://turkicworkshop.github.io/)  
+
+---
+
+## Invited Speakers
+
+- **Utku Turk** (University of Maryland) — *Agreement Attraction in Turkic Production*
+- **Second Speaker** (Affiliation) — *Title TBA*
+
+---
+
+## Announcements
+
+- **CFA posted** — See “Call For Abstracts” in the footer navigation.  
+- **Accessibility** — We aim to provide accessible venues and remote options when possible.  
+- **Travel support** — Limited student travel funds (details forthcoming).
+
+---
+
+## Important Dates
+
+| Milestone                        | Date                    |
+|---------------------------------|-------------------------|
+| Abstract submission deadline    | **January 15, 2026**    |
+| Notification of acceptance      | **February 15, 2026**   |
+| Camera-ready (if applicable)    | March 20, 2026          |
+| Workshop                        | **April 11–12, 2026**   |
+
+*All dates are 23:59 anywhere on earth (AoE) unless noted.*
+
+---
+
+## Organizing Committee
+
+**Local Organizers (MIT)**  
+- Name Surname (MIT)  
+- Name Surname (MIT)
+
+**Program Committee**  
+- Name Surname (Institution)  
+- Name Surname (Institution)  
+- Name Surname (Institution)
+
+**Contact:** [turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com)

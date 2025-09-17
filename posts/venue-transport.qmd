@@ -1,0 +1,15 @@
+---
+title: "Venue & Transportation"
+description: "Buildings, rooms, campus maps, getting to MIT, local transit."
+date: 2026-01-18
+categories: [venue, transportation]
+---
+
+## Venue
+- Building names, room numbers, entrance instructions.
+
+## Getting to MIT
+- Nearest airports, public transit (MBTA), rideshare, parking.
+
+## On-Campus Navigation
+- Maps, signage, registration desk, Wi-Fi instructions.
