@@ -13,8 +13,6 @@ listing:
   filter-ui: true
 ---
 
-## Welcome
-
 Here you’ll find practical information for **TU+ 11 (MIT, Apr 11–12, 2026)**—from presenter guidelines to venue maps, travel tips, and dining.
 
 ::: callout-note

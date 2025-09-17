@@ -3,8 +3,6 @@ title: ""
 format: html
 ---
 
-# Registration
-
 Registration for **TU+ 11 (MIT • April 11–12, 2026)** is **free**.  
 All participants (speakers, poster presenters, and attendees) are welcome without registration fees.
 
