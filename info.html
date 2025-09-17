@@ -189,7 +189,7 @@ Note
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="cHJlc2VudGVycyUyQ2xvZ2lzdGljcw==" data-listing-date-sort="1768867200000" data-listing-file-modified-sort="1758135068487" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="37">
+<div class="g-col-1" data-index="0" data-categories="cHJlc2VudGVycyUyQ2xvZ2lzdGljcw==" data-listing-date-sort="1768867200000" data-listing-file-modified-sort="1758135876023" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="37">
 <a href="./posts/presenter-info.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -214,7 +214,7 @@ Jan 20, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="dmVudWUlMkN0cmFuc3BvcnRhdGlvbg==" data-listing-date-sort="1768694400000" data-listing-file-modified-sort="1758135068487" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="25">
+<div class="g-col-1" data-index="1" data-categories="dmVudWUlMkN0cmFuc3BvcnRhdGlvbg==" data-listing-date-sort="1768694400000" data-listing-file-modified-sort="1758135876023" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="25">
 <a href="./posts/venue-transport.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -239,7 +239,7 @@ Jan 18, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="dHJhdmVsJTJDYWNjb21tb2RhdGlvbg==" data-listing-date-sort="1768521600000" data-listing-file-modified-sort="1758135068487" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
+<div class="g-col-1" data-index="2" data-categories="dHJhdmVsJTJDYWNjb21tb2RhdGlvbg==" data-listing-date-sort="1768521600000" data-listing-file-modified-sort="1758135876023" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
 <a href="./posts/travel-accomadation.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -264,7 +264,7 @@ Jan 16, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="ZGluaW5nJTJDbG9jYWw=" data-listing-date-sort="1768348800000" data-listing-file-modified-sort="1758135068487" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="22">
+<div class="g-col-1" data-index="3" data-categories="ZGluaW5nJTJDbG9jYWw=" data-listing-date-sort="1768348800000" data-listing-file-modified-sort="1758135876023" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="22">
 <a href="./posts/dining.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -289,7 +289,7 @@ Jan 14, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="YWNjZXNzaWJpbGl0eSUyQ2xvZ2lzdGljcw==" data-listing-date-sort="1768176000000" data-listing-file-modified-sort="1758135068487" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
+<div class="g-col-1" data-index="4" data-categories="YWNjZXNzaWJpbGl0eSUyQ2xvZ2lzdGljcw==" data-listing-date-sort="1768176000000" data-listing-file-modified-sort="1758135876023" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
 <a href="./posts/accessibility.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="card-body post-contents">
@@ -319,13 +319,35 @@ Jan 12, 2026
 </div></main> <!-- /main -->
 <footer id="fake-navbar" role="navigation" aria-label="Footer navigation">
   <nav class="footer-nav">
-    <a href="index.html">Home</a>
-    <a href="cfa.html">Call For Abstracts</a>
-    <a href="reg.html">Registration</a>
-    <a href="program.html">Program</a>
-    <a href="info.html">Information</a>
+    <a data-path="index.html">Home</a>
+    <a data-path="cfa.html">Call For Abstracts</a>
+    <a data-path="reg.html">Registration</a>
+    <a data-path="program.html">Program</a>
+    <a data-path="info.html">Information</a>
   </nav>
 </footer>
+
+<script>
+(function () {
+  // Base prefix for GitHub Pages project site vs local preview
+  var base = (location.hostname.endsWith('github.io') ? '/tu11/' : '/');
+
+  // Rewrite hrefs from data-path attributes
+  document.querySelectorAll('#fake-navbar a[data-path]').forEach(function(a) {
+    a.href = base + a.getAttribute('data-path');
+  });
+
+  // Highlight current page
+  var here = location.pathname.replace(/\/+$/, '');
+  document.querySelectorAll('#fake-navbar a[href]').forEach(function(a) {
+    var href = a.getAttribute('href').replace(/\/+$/, '');
+    var isHome = href.endsWith('/index.html') || href === base;
+    var match = (isHome && (here === base.slice(0,-1) || here.endsWith('/index.html')))
+             || here.endsWith(href);
+    if (match) a.setAttribute('aria-current', 'page');
+  });
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -727,19 +749,6 @@ Jan 12, 2026
   });
   </script>
 </div> <!-- /content -->
-<script>
-(function () {
-  const here = window.location.pathname.split('/').pop() || 'index.html';
-  const links = document.querySelectorAll('#fake-navbar .footer-nav a');
-  links.forEach(a => {
-    const href = a.getAttribute('href');
-    // match by file name (handles relative paths)
-    if (href && (href === here || href.endsWith('/' + here))) {
-      a.setAttribute('aria-current', 'page');
-    }
-  });
-})();
-</script>
 
 
 
