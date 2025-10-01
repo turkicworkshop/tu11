@@ -16,22 +16,22 @@ Since 2019, papers presented at TU+ have been invited to appear in an online pro
 
 ## Code of Conduct
 
-Please review our **Code of Conduct** before participating.  
+Please review our **Code of Conduct** before participating.
 **Link:** [Code of Conduct](code-of-conduct.html)
 
 ---
 
 ## Questions?
 
-Email the organizers at **[turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com)**.  
+Email the organizers at **[turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com)**.
 We’re happy to help with submissions, accessibility, and logistics.
 
 ---
 
 ## Permanent Site
 
-For information on earlier editions, proceedings, and history, see the permanent site:  
-**Link:** [TU+ Permanent Site](https://turkicworkshop.github.io/)  
+For information on earlier editions, proceedings, and history, see the permanent site:
+**Link:** [TU+ Permanent Site](https://turkicworkshop.github.io/)
 
 ---
 
@@ -44,8 +44,8 @@ For information on earlier editions, proceedings, and history, see the permanent
 
 ## Announcements
 
-- **CFA posted** — See “Call For Abstracts” in the footer navigation.  
-- **Accessibility** — We aim to provide accessible venues and remote options when possible.  
+- **CFA posted** — See “Call For Abstracts” in the footer navigation.
+- **Accessibility** — We aim to provide accessible venues and remote options when possible.
 - **Travel support** — Limited student travel funds (details forthcoming).
 
 ---
@@ -65,13 +65,13 @@ For information on earlier editions, proceedings, and history, see the permanent
 
 ## Organizing Committee
 
-**Local Organizers (MIT)**  
-- Name Surname (MIT)  
+**Local Organizers (MIT)**
+- Name Surname (MIT)
 - Name Surname (MIT)
 
-**Program Committee**  
-- Name Surname (Institution)  
-- Name Surname (Institution)  
+**Program Committee**
+- Name Surname (Institution)
+- Name Surname (Institution)
 - Name Surname (Institution)
 
 **Contact:** [turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com)
