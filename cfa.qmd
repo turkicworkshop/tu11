@@ -8,33 +8,33 @@ We invite submissions for **TU+ 11**, to be held at **MIT, April 11–12, 2026**
 
 ## Important Dates
 
-- **Abstract submission deadline:** January 15, 2026  
-- **Notification of acceptance:** February 15, 2026  
-- **Workshop dates:** April 11–12, 2026  
+- **Abstract submission deadline:** Novermber 22, 2025
+- **Notification of acceptance:** December 24, 2025
+- **Workshop dates:** April 11–12, 2026
 
 ---
 
 ## Submission Guidelines
 
-- Abstracts must be anonymous and not exceed **2 pages**, including examples, figures, and references.  
-- Submissions should be in **PDF format**.  
-- Authors may be involved in at most **two submissions**, and only one as first author.  
+- Abstracts must be anonymous and not exceed **2 pages**, including examples, figures, and references.
+- Submissions should be in **PDF format**.
+- Authors may be involved in at most **two submissions**, and only one as first author.
 
 ---
 
 ## Topics
 
-We welcome contributions on all aspects of **linguistic research on Turkic languages**, as well as on:  
+We welcome contributions on all aspects of **linguistic research on Turkic languages**, as well as on:
 
-- Languages in contact with Turkic  
-- Languages spoken in regions where Turkic languages are spoken  
-- Theoretical, experimental, and computational approaches  
+- Languages in contact with Turkic
+- Languages spoken in regions where Turkic languages are spoken
+- Theoretical, experimental, and computational approaches
 
 ---
 
 ## How to Submit
 
-Submissions should be made through the **OpenReview** platform (link coming soon).  
+Submissions should be made through the **OpenReview** platform (link coming soon).
 
 For questions, contact the organizers at: [turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com)
 
@@ -42,5 +42,5 @@ For questions, contact the organizers at: [turkicworkshop@gmail.com](mailto:turk
 
 ## Invited Speakers
 
-- **Utku Turk** (University of Maryland) — *Agreement Attraction in Turkic Production*  
-- **Someone Else** (University XYZ) — *Title TBA*  
+- [**Yağmur Sağ**](https://www.yagmursag.com) (Swathmore College) — *Title TBA*
+- [**Sergei Tatevosov**](http://otipl.philol.msu.ru/staff/people/tatevosov/tatevosov_eng.php) (Lomonosov Moscow State University) — *Title TBA*

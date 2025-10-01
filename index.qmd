@@ -21,13 +21,6 @@ Please review our **Code of Conduct** before participating.
 
 ---
 
-## Questions?
-
-Email the organizers at **[turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com)**.
-We’re happy to help with submissions, accessibility, and logistics.
-
----
-
 ## Permanent Site
 
 For information on earlier editions, proceedings, and history, see the permanent site:
@@ -37,16 +30,9 @@ For information on earlier editions, proceedings, and history, see the permanent
 
 ## Invited Speakers
 
-- **Utku Turk** (University of Maryland) — *Agreement Attraction in Turkic Production*
-- **Second Speaker** (Affiliation) — *Title TBA*
+- [**Yağmur Sağ**](https://www.yagmursag.com) (Swathmore College) — *Title TBA*
+- [**Sergei Tatevosov**](http://otipl.philol.msu.ru/staff/people/tatevosov/tatevosov_eng.php) (Lomonosov Moscow State University) — *Title TBA*
 
----
-
-## Announcements
-
-- **CFA posted** — See “Call For Abstracts” in the footer navigation.
-- **Accessibility** — We aim to provide accessible venues and remote options when possible.
-- **Travel support** — Limited student travel funds (details forthcoming).
 
 ---
 
@@ -54,9 +40,8 @@ For information on earlier editions, proceedings, and history, see the permanent
 
 | Milestone                        | Date                    |
 |---------------------------------|-------------------------|
-| Abstract submission deadline    | **January 15, 2026**    |
-| Notification of acceptance      | **February 15, 2026**   |
-| Camera-ready (if applicable)    | March 20, 2026          |
+| Abstract submission deadline    | **November 22, 2025**    |
+| Notification of acceptance      | **December 24, 2025**   |
 | Workshop                        | **April 11–12, 2026**   |
 
 *All dates are 23:59 anywhere on earth (AoE) unless noted.*
@@ -66,12 +51,14 @@ For information on earlier editions, proceedings, and history, see the permanent
 ## Organizing Committee
 
 **Local Organizers (MIT)**
-- Name Surname (MIT)
-- Name Surname (MIT)
+- Bergül Soykan `bergul@mit.edu` (MIT)
 
 **Program Committee**
-- Name Surname (Institution)
-- Name Surname (Institution)
-- Name Surname (Institution)
+- [Deniz Özyıldız](https://deniz.fr) (University of Stuttgart)
 
-**Contact:** [turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com)
+---
+
+## Questions?
+
+Email the organizers at **[turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com)**.
+We’re happy to help with submissions, accessibility, and logistics.

@@ -3,12 +3,14 @@ title: ""
 format: html
 ---
 
+Program is to be announced.
 
 ```{r}
 #| label: setup-program
 #| echo: false
 #| message: false
 #| warning: false
+#| eval: false
 
 library(dplyr)
 library(tidyr)
@@ -22,8 +24,8 @@ options(dplyr.summarise.inform = FALSE)
 # =========================
 prog <- tibble::tribble(
   ~day, ~date,        ~start, ~end,   ~type,      ~title,                                   ~speaker,            ~room,
-  "Day 1", "2026-04-11", "09:00", "09:15", "opening",  "Welcome & Opening Remarks",              "Organizers",         "Auditorium",
-  "Day 1", "2026-04-11", "09:15", "10:15", "invited",  "Agreement Attraction in Turkic Production","Utku Turk (UMD)",    "Auditorium",
+  "Day 1", "2026-04-11", "09:00", "09:15", "opening",  "Welcome & Opening Remarks",              "Organizers",        "Auditorium",
+  "Day 1", "2026-04-11", "09:15", "10:15", "invited",  "Agreement Attraction in Turkic Production","Utku Turk (UMD)",  "Auditorium",
   "Day 1", "2026-04-11", "10:15", "10:45", "break",    "Coffee Break",                           "",                   "Lobby",
   "Day 1", "2026-04-11", "10:45", "12:15", "talks",    "Syntax & Morphology I (Contributed)",    "Multiple",           "Auditorium",
   "Day 1", "2026-04-11", "12:15", "14:00", "lunch",    "Lunch",                                  "",                   "Dining Area",
@@ -91,34 +93,36 @@ make_day_detail <- function(day_name) {
 
 ```
 
-## At a glance
+<!-- ## At a glance -->
 
-::: {.panel-tabset}
+<!-- ::: {.panel-tabset} -->
 
-### Day 1
+<!-- ### Day 1 -->
 
 ```{r}
 #| echo: false
+#| eval: false
 make_day_detail("Day 1")
 ```
 
-### Day 2
+<!-- ### Day 2 -->
 
 ```{r}
 #| echo: false
+#| eval: false
 make_day_detail("Day 2")
 ```
 
-:::
+<!-- ::: -->
 
-## Poster
+<!-- ## Poster -->
 
 ```{r}
 #| echo: false
+#| eval: false
 posters %>%
   rename(`Poster session` = session, Title = paper_title, Authors = authors) %>%
   gt() %>%
   tab_header(title = md("**Poster Session**")) %>%
   tab_options(table.width = pct(100))
 ```
-

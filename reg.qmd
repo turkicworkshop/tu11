@@ -3,7 +3,11 @@ title: ""
 format: html
 ---
 
-Registration for **TU+ 11 (MIT • April 11–12, 2026)** is **free**.  
+The registration is closed for now.
+
+
+
+<!-- Registration for **TU+ 11 (MIT • April 11–12, 2026)** is **free**.
 All participants (speakers, poster presenters, and attendees) are welcome without registration fees.
 
 ::: callout-tip
@@ -14,15 +18,15 @@ If you need an **invitation/visa letter**, please register first and then email 
 
 ## How to Register
 
-1. Fill out the online registration form: **[Registration Form](#)**  
+1. Fill out the online registration form: **[Registration Form](#)**
 2. Receive a confirmation email. Save it for on-site check-in.
 
 ---
 
 ## Important Notes
 
-- Registration ensures we have your information for **access control, communication, and logistics**.  
-- Even though it’s free, **please register as early as possible** to help us plan room capacity, catering, and materials.  
+- Registration ensures we have your information for **access control, communication, and logistics**.
+- Even though it’s free, **please register as early as possible** to help us plan room capacity, catering, and materials.
 - If your institution requires an invoice or you need payment for associated travel etc., contact us at **turkicworkshop@gmail.com**.
 
 ---
@@ -35,7 +39,7 @@ We aim to make TU+ accessible. If you have needs (step-free access, seating, cap
 
 ## Code of Conduct
 
-By registering, you agree to abide by the **[Code of Conduct](code-of-conduct.html)**.  
+By registering, you agree to abide by the **[Code of Conduct](code-of-conduct.html)**.   -->
 
 ---
 
