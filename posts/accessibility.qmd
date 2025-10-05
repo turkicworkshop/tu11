@@ -6,10 +6,7 @@ categories: [accessibility, logistics]
 ---
 
 ## Mobility
-- Step-free routes, elevators, accessible entrances.
-
-## Hearing/Visual
-- Microphone use, reserved seating, captioning availability.
+MIT offers a public mobility map for all of its guests. You can check it [here](https://gismaps.mit.edu/campus/accessibility/index.html).
 
 ## Spaces
 - Restrooms, lactation room, prayer/quiet room locations.
