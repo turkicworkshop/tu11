@@ -51,7 +51,11 @@ For information on earlier editions, proceedings, and history, see the permanent
 ## Organizing Committee
 
 **Local Organizers (MIT)**
-- Bergül Soykan `bergul@mit.edu` (MIT)
+- Bergül Soykan `bergul@mit.edu` 
+- Cynthia Zhong `cyntz@mit.edu` 
+- Juan Cancel `juanc374@mit.edu`
+- Taieba Tawakoli `tawakoli@mit.edu`
+- Vladislav Orlov `vorlov@mit.edu` 
 
 **Program Committee**
 - [Deniz Özyıldız](https://deniz.fr) (University of Stuttgart)
