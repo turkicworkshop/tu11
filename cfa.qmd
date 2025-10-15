@@ -8,17 +8,21 @@ We invite submissions for **TU+ 11**, to be held at **MIT, April 11–12, 2026**
 
 ## Important Dates
 
-- **Abstract submission deadline:** Novermber 22, 2025
-- **Notification of acceptance:** December 24, 2025
+- **Abstract submission deadline:** December 15, 2025
+- **Notification of acceptance:** January 26, 2026
 - **Workshop dates:** April 11–12, 2026
 
 ---
 
 ## Submission Guidelines
 
-- Abstracts must be anonymous and not exceed **2 pages**, including examples, figures, and references.
+- Abstracts must be anonymous and not contain excessive references to the publications of the author(s) or acknowledgments to granting agencies or academic bodies.
+- Abstracts should contain original research that, at the time of submission, has neither been published nor accepted for publication.
+- Authors may be involved in at most **two submissions**: i) one individual abstract and one joint abstract, or ii) two joint works.
+- Abstracts should not exceed **2 pages** in letter or A4 format with 1 inch margin on all sides, including examples, figures, and references.
+- The font should not be smaller than 11pt. 
 - Submissions should be in **PDF format**.
-- Authors may be involved in at most **two submissions**, and only one as first author.
+
 
 ---
 
@@ -34,7 +38,7 @@ We welcome contributions on all aspects of **linguistic research on Turkic langu
 
 ## How to Submit
 
-Submissions should be made through the **OpenReview** platform (link coming soon).
+Submissions should be made through the **OpenReview** platform (link coming soon) by Monday, December 15, 2025, 11:59 pm EST.
 
 For questions, contact the organizers at: [turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com)
 
