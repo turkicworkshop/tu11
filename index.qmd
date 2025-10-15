@@ -8,6 +8,7 @@ toc: false
 
 Tu+ is an annual workshop focusing on all aspects of linguistic research on **Turkic languages**, as well as on **languages in contact with Turkic** and on **languages spoken in regions where Turkic languages are spoken**. TU+ showcases theoretically informed and data-driven work across phonology, morphology, syntax, semantics, pragmatics, psycholinguistics, neurolinguistics, historical linguistics, and computational approaches.
 
+
 ::: callout-note
 Since 2019, papers presented at TU+ have been invited to appear in an online proceedings volume distributed by the Linguistic Society of America.
 :::
@@ -23,7 +24,7 @@ Please review our **Code of Conduct** before participating.
 
 ## Permanent Site
 
-For information on earlier editions, proceedings, and history, see the permanent site:
+For information on earlier editions, [proceedings](https://journals.linguisticsociety.org/proceedings/index.php/tu/issue/archive), and history, see the permanent site:
 **Link:** [TU+ Permanent Site](https://turkicworkshop.github.io/)
 
 ---
@@ -40,22 +41,24 @@ For information on earlier editions, proceedings, and history, see the permanent
 
 | Milestone                        | Date                    |
 |---------------------------------|-------------------------|
-| Abstract submission deadline    | **December 22, 2025**    |
-| Notification of acceptance      | **January 26, 2026**   |
-| Workshop                        | **April 11–12, 2026**   |
+| Abstract submission deadline    | **December 15, 2025** - 11:59 PM EST    |
+| Notification of acceptance      | **January 26, 2026**  - 11:59 PM EST    |
+| Workshop                        | **April 11–12, 2026**                   |
 
-*All dates are 23:59 anywhere on earth (AoE) unless noted.*
 
 ---
 
 ## Organizing Committee
 
-**Local Organizers (MIT)**
+**Local Organizers (MIT)** <br>
 - Bergül Soykan `bergul@mit.edu` <br>
 - Cynthia Zhong `cyntz@mit.edu`  <br>
 - Juan Cancel `juanc374@mit.edu` <br>
 - Taieba Tawakoli `tawakoli@mit.edu` <br>
 - Vladislav Orlov `vorlov@mit.edu` <br>
+
+**Faculty Advisor** 
+- [Sabine Iatridou](https://linguistics.mit.edu/user/iatridou/) (MIT)
 
 **Program Committee**
 - [Deniz Özyıldız](https://deniz.fr) (University of Stuttgart)
