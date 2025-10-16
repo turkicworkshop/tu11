@@ -6,7 +6,9 @@ format: html
 toc: false
 ---
 
-Tu+ is an annual workshop focusing on all aspects of linguistic research on **Turkic languages**, as well as on **languages in contact with Turkic** and on **languages spoken in regions where Turkic languages are spoken**. TU+ showcases theoretically informed and data-driven work across phonology, morphology, syntax, semantics, pragmatics, psycholinguistics, neurolinguistics, historical linguistics, and computational approaches.
+Welcome to TU+11 at the University of Massachusetts (MIT)! We are pleased to announce that the 11th iteration of the Workshop on Turkic and Languages in Contact with Turkic (TU+) will be hosted by MIT Linguistics. The workshop will be held at MIT, Cambridge, MA, on April 11-12, 2026 **in-person**. The abstract submissions are now open!
+
+TU+ is an annual workshop focusing on all aspects of linguistic research on **Turkic languages**, as well as on **languages in contact with Turkic** and on **languages spoken in regions where Turkic languages are spoken**. TU+ showcases theoretically informed and data-driven work across phonology, morphology, syntax, semantics, pragmatics, psycholinguistics, neurolinguistics, historical linguistics, and computational approaches.
 
 
 ::: callout-note
@@ -24,8 +26,7 @@ Please review our **Code of Conduct** before participating.
 
 ## Permanent Site
 
-For information on earlier editions, [proceedings](https://journals.linguisticsociety.org/proceedings/index.php/tu/issue/archive), and history, see the permanent site:
-**Link:** [TU+ Permanent Site](https://turkicworkshop.github.io/)
+For information on earlier editions, [proceedings](https://journals.linguisticsociety.org/proceedings/index.php/tu/issue/archive), and history, see the [permanent site](https://turkicworkshop.github.io/) (under construction).
 
 ---
 
