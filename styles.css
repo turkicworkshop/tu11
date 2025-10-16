@@ -62,11 +62,11 @@ body {
 }
 
 .footer-nav a:hover {
-  color: #328CC1;
+  color: #750014;
 }
 
 .footer-nav a[aria-current="page"] {
-  color: #328CC1;
+  color: #750014;
   text-decoration: underline;
 }
 
@@ -137,7 +137,7 @@ body {
   max-width: 1000px;
   margin: 2rem auto 3rem auto;
   padding-bottom: 1em;
-  background-color: #c1dcec;
+  background-color: ##750014;
   border-radius: 16px;
   text-align: center;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
@@ -146,20 +146,20 @@ body {
 .hero-title {
   font-size: 3rem;
   margin: 0 0 0rem;
-  color: #0B3C5D;
+  color:  #626a73;
   font-weight: 800;
 }
 
 .hero-meta {
   font-size: 1.25rem;
   margin: 0 0 .5rem;
-  color: #334155;
+  color: #8b959e;
 }
 
 .hero-subtitle {
   font-size: 1.1rem;
   margin: 0;
-  color: #475569;
+  color: #b8c2cc;
 }
 
 /* Optional: make the hero text scale down on phones too */
