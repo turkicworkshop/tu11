@@ -134,6 +134,12 @@ body {
   }
 }
 
+/* desktop dimensions */
+.content {
+  width: 1vw;
+  margin: 0 2rem 0 2rem;
+}
+
 /* ==== YOUR HERO STYLES (unchanged) ==== */
 #hero-section {
   max-width: 1000px;
