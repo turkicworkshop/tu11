@@ -4,6 +4,11 @@ title: ""
 
 We invite submissions for **TU+ 11**, which will be held **in-person** at **MIT**, on **April 11–12, 2026**.
 
+Abstracts can be submitted for 30-minute talks (20-min. talk + 10-min. Q&A), poster presentations, or both.
+
+All abstracts will be anonymously peer-reviewed.
+
+
 ---
 
 ## Important Dates
@@ -20,7 +25,7 @@ We invite submissions for **TU+ 11**, which will be held **in-person** at **MIT*
 - Abstracts should contain original research that, at the time of submission, has neither been published nor accepted for publication.
 - Authors may be involved in at most **two submissions**: i) one individual abstract and one joint abstract, or ii) two joint works.
 - Abstracts should not exceed **2 pages** in letter or A4 format with 1 inch margin on all sides, including examples, figures, and references.
-- The font should not be smaller than 11pt. 
+- The font should not be smaller than 11pt.  
 - Submissions should be in **PDF format**.
 
 
