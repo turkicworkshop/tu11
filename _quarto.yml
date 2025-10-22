@@ -6,6 +6,11 @@ website:
 
 format:
   html:
+    grid:
+      body-width: 1000px      # total page content width
+      sidebar-width: 260px    # left sidebar
+      margin-width: 260px     # right margin ("categories" column)
+      gutter-width: 1.5rem    # space between columns
     theme: default
     css: styles.css
     include-before-body: header.html

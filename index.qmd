@@ -17,28 +17,16 @@ Since 2019, papers presented at TU+ have been invited to appear in an online pro
 
 ---
 
-## Code of Conduct
 
-Please review our **Code of Conduct** before participating.
-**Link:** [Code of Conduct](code-of-conduct.html)
-
----
-
-## Permanent Site
-
-For information on earlier editions, [proceedings](https://journals.linguisticsociety.org/proceedings/index.php/tu/issue/archive), and history, see the [permanent site](https://turkicworkshop.github.io/) (under construction).
-
----
-
-## Invited Speakers
+### Invited Speakers
 
 - [**Yağmur Sağ**](https://www.yagmursag.com) (Swathmore College) — *Title TBA*
 - [**Sergei Tatevosov**](http://otipl.philol.msu.ru/staff/people/tatevosov/tatevosov_eng.php) (Lomonosov Moscow State University) — *Title TBA*
 
-
 ---
 
-## Important Dates
+
+### Important Dates
 
 | Milestone                        | Date                    |
 |---------------------------------|-------------------------|
@@ -47,26 +35,55 @@ For information on earlier editions, [proceedings](https://journals.linguisticso
 | Workshop                        | **April 11–12, 2026**                   |
 
 
----
 
-## Organizing Committee
+::: {.columns}
+::: {.column width="50%"}
 
-**Local Organizers (MIT)** <br>
-- Bergül Soykan `bergul@mit.edu` <br>
-- Cynthia Zhong `cyntz@mit.edu`  <br>
-- Juan Cancel `juanc374@mit.edu` <br>
-- Taieba Tawakoli `tawakoli@mit.edu` <br>
-- Vladislav Orlov `vorlov@mit.edu` <br>
+#### Code of Conduct
+
+Please review our **Code of Conduct** before participating.
+
+**Link:** [Code of Conduct](code-of-conduct.html)
+
+#### Organizing Committee
+
+**Local Organizers (MIT)** 
+
+- Bergül Soykan `bergul@mit.edu` 
+- Cynthia Zhong `cyntz@mit.edu`  
+- Juan Cancel `juanc374@mit.edu` 
+- Taieba Tawakoli `tawakoli@mit.edu` 
+- Vladislav Orlov `vorlov@mit.edu` 
 
 **Faculty Advisor** 
+
 - [Sabine Iatridou](https://linguistics.mit.edu/user/iatridou/) (MIT)
 
 **Program Committee**
+
 - [Deniz Özyıldız](https://deniz.fr) (University of Stuttgart)
 
----
 
-## Questions?
+:::
+
+::: {.column width="50%"}
+
+#### Permanent Site
+
+For information on earlier editions, [proceedings](https://journals.linguisticsociety.org/proceedings/index.php/tu/issue/archive), and history, see the [permanent site](https://turkicworkshop.github.io/) (under construction).
+
+
+#### Questions?
 
 Email the organizers at **[turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com)**.
 We’re happy to help with submissions, accessibility, and logistics.
+
+
+![](./images/mit-logo.png){width=70% fig-align="center"}
+
+![](./images/linguist-logo.jpeg){width=50% fig-align="center"}
+
+
+:::
+:::
+
