@@ -70,7 +70,7 @@ Please review our **Code of Conduct** before participating.
 
 #### Permanent Site
 
-For information on earlier editions, [proceedings](https://journals.linguisticsociety.org/proceedings/index.php/tu/issue/archive), and history, see the [permanent site](https://turkicworkshop.github.io/) (under construction).
+For information on earlier editions, [proceedings](https://journals.linguisticsociety.org/proceedings/index.php/tu/issue/archive), and history, see the [permanent site](https://turkicworkshop.github.io/).
 
 
 #### Questions?
