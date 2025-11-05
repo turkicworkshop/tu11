@@ -47,15 +47,15 @@ Please review our **Code of Conduct** before participating.
 
 #### Organizing Committee
 
-**Local Organizers (MIT)** 
+**Local Organizers (MIT)**
 
-- Bergül Soykan `bergul@mit.edu` 
-- Cynthia Zhong `cyntz@mit.edu`  
-- Juan Cancel `juanc374@mit.edu` 
-- Taieba Tawakoli `tawakoli@mit.edu` 
-- Vladislav Orlov `vorlov@mit.edu` 
+- Bergül Soykan `bergul@mit.edu`
+- Cynthia Zhong `cyntz@mit.edu`
+- Juan Cancel `juanc374@mit.edu`
+- Taieba Tawakoli `tawakoli@mit.edu`
+- Vladislav Orlov `vorlov@mit.edu`
 
-**Faculty Advisor** 
+**Faculty Advisor**
 
 - [Sabine Iatridou](https://linguistics.mit.edu/user/iatridou/) (MIT)
 
@@ -76,7 +76,7 @@ For information on earlier editions, [proceedings](https://journals.linguisticso
 #### Questions?
 
 Email the organizers at **[turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com)**.
-We’re happy to help with submissions, accessibility, and logistics.
+We’re happy to help with submissions, accessibility, and logistics. You can also join our **[Google Groups](https://forms.gle/RHkMvACuJhYSeXN97)** to receive updates.
 
 
 ![](./images/mit-logo.png){width=70% fig-align="center"}
@@ -86,4 +86,3 @@ We’re happy to help with submissions, accessibility, and logistics.
 
 :::
 :::
-

@@ -5,6 +5,8 @@ date: 2026-01-18
 categories: [venue, transportation]
 ---
 
+More information will be provided soon.
+
 ## Venue
 - Building names, room numbers, entrance instructions.
 

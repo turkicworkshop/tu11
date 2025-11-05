@@ -5,6 +5,8 @@ date: 2026-01-16
 categories: [travel, accommodation]
 ---
 
+More information will be provided soon.
+
 ## Accommodation
 - Suggested hotels (distance, price range), block codes if any.
 

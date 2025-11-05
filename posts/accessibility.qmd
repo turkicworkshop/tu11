@@ -5,6 +5,8 @@ date: 2026-01-12
 categories: [accessibility, logistics]
 ---
 
+More information will be provided soon.
+
 ## Mobility
 MIT offers a public mobility map for all of its guests. You can check it [here](https://gismaps.mit.edu/campus/accessibility/index.html).
 
