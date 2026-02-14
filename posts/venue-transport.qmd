@@ -1,6 +1,6 @@
 ---
 title: "Venue & Transportation"
-description: "Buildings, rooms, campus maps, getting to MIT, local transit."
+description: "Getting to MIT, local transit, buildings."
 date: 2026-02-13
 categories: [venue, transportation]
 ---

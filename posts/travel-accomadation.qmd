@@ -1,17 +1,52 @@
 ---
-title: "Travel & Accommodation"
-description: "Where to stay, booking tips, student rates, visa letters."
+title: "Accommodation"
+description: "Hotels near MIT."
 date: 2026-01-16
 categories: [travel, accommodation]
 ---
+## Hotels
+- MIT has several preferred hotels in the campus area, three of which are in Kendall Square*.
+	- More information can be found at [https://web.mit.edu/visitmit/where-stay/](https://web.mit.edu/visitmit/where-stay/).
+- [Boston Marriott Cambridge](http://www.marriott.com/hotels/travel/boscb-boston-marriott-cambridge/)*
+	- 2 Cambridge Center, Cambridge, MA 02142
+	- Phone: 617-494-6600 
+	- Toll-free: 800-228-9290
+- [Courtyard Boston Cambridge by Marriott](http://www.cambridgecourtyard.com/)
+	- 777 Memorial Drive, Cambridge MA 02139
+	- Phone: 617-492-7777
+	- Toll-free: 866-323-4149
+- [Fairfield Inn and Suites Boston Cambridge](http://www.marriott.com/hotels/travel/bosbg-fairfield-inn-and-suites-boston-cambridge/)
+	- 215 Monsignor O’Brien Highway, Cambridge, MA  02141
+	- Phone: 617-621-1999
+- [Holiday Inn Express and Suites Boston Cambridge](http://www.hiecambridge.com/)
+	- 250 Monsignor O’Brien Highway, Cambridge, MA 02141
+	- Phone: 617-577-7600
+- [Hotel Commonwealth](http://www.hotelcommonwealth.com/)
+	- 500 Commonwealth Avenue, Boston MA 02215
+	- Toll-free: 866-784-4000
+- [Hyatt Regency Boston / Cambridge](https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston-cambridge/bosrc)
+	- 575 Memorial Drive, Cambridge, MA 02139
+	- Phone: 617-492-1234
+	- Toll-free: 800-228-9000
+- [The Kendall Hotel](http://www.kendallhotel.com/)*
+	- 350 Main Street, Cambridge, MA 02142
+	- Phone: 617-577-1300
+- [Kimpton Marlowe Hotel](https://www.hotelmarlowe.com/)
+	- 25 Edwin Land Boulevard, Cambridge, MA 02141
+	- Phone: 617-868-8000
+	- Toll-free: 800-825-7140
+- [Le Meridien Boston Cambridge](https://www.marriott.com/hotels/travel/bosbm-le-meridien-boston-cambridge/)
+	- 20 Sidney Street, Cambridge, MA 02139
+	- Phone: 617-577-0200
+	- Toll-free: 800-543-4300
+- [Residence Inn Boston Cambridge](http://www.marriott.com/hotels/travel/boscm-residence-inn-boston-cambridge/)*
+	- 6 Cambridge Center, Cambridge, MA 02142
+	- Phone: 617-494-1885
+	- Toll-free: 800-331-3131
+- [Royal Sonesta Boston](http://www.sonesta.com/boston)
+	- 40 Edwin Land Boulevard, Cambridge, MA 02141
+	- Phone: 617-806-4200
+- [The Whitney Hotel](https://www.whitneyhotelboston.com/)
+	- 170 Charles Street, Boston, MA 02114
+	- Toll-free: 888-673-3650
 
-More information will be provided soon.
-
-## Accommodation
-- Suggested hotels (distance, price range), block codes if any.
-
-## Travel Tips
-- Airport options, international arrivals, SIMs, money.
-
-## Letters & Visas
-- How to request a letter, processing timelines.
