@@ -2,8 +2,8 @@
   {
     "listing": "/info.html",
     "items": [
-      "/posts/presenter-info.html",
       "/posts/venue-transport.html",
+      "/posts/presenter-info.html",
       "/posts/travel-accomadation.html",
       "/posts/dining.html",
       "/posts/accessibility.html"
