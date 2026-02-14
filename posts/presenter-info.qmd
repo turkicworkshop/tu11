@@ -1,21 +1,14 @@
 ---
 title: "Presenter Info"
 description: "Talk & poster guidelines, timing, AV setup, file formats."
-date: 2026-01-20
+date: 2026-02-13
 categories: [presenters, logistics]
 ---
 
-More information will be provided soon.
+## Oral presentations
+- Oral presentations will be 20 minutes of talk followed by 10 minutes of Q&A.
 
-
-## Talk Guidelines
-- Length, Q&A format, session chairing, timing cards.
-
-## Poster Guidelines
-- Size, orientation, recommended layout, printing tips.
-
-## AV & File Formats
-- Slides (PDF/PPT), adapters, laser pointers, screen resolution.
-
-## Accessibility for Presenters
-- Microphone use, captioning notes, accessible color choices.
+## Posters
+- There will be two traditional in-person poster sessions and a short online "flash talk" poster session. 
+- The in-person poster sessions will be held on the first floor of Stata Center. We recommend you print your poster on A1-sized paper. 
+- The online poster session will consist of 10-minute pre-recorded flash talks followed by 5-minute live Q&A sessions. You can choose either poster or slides for your presentation.
