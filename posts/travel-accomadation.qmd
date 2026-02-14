@@ -6,7 +6,7 @@ categories: [travel, accommodation]
 ---
 ## Hotels
 - Certain local hotels have MIT rates that vary by date. There is not a specific convention rate available.
-- Below are some hotels near MIT campus:
+- Below are some hotels near MIT campus with MIT rates for April 11-12:
 - [Courtyard Boston Cambridge by Marriott](http://www.cambridgecourtyard.com/)
 	- 777 Memorial Drive, Cambridge MA 02139
 	- Use code `MT2` to book Room Type 1 and 2 with MIT rate.
@@ -16,22 +16,13 @@ categories: [travel, accommodation]
 - [Holiday Inn Express and Suites Boston Cambridge](http://www.hiecambridge.com/)
 	- 250 Monsignor O’Brien Highway, Cambridge, MA 02141
 	- Use code `100216750` to book with MIT rate.
-- [Hyatt Regency Boston / Cambridge](https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston-cambridge/bosrc)
-	- 575 Memorial Drive, Cambridge, MA 02139
-	- Use code `33395` to book Standard King/Double or Double Double City/Riverside View with MIT rate.
 - [The Kendall Hotel](http://www.kendallhotel.com/)
 	- 350 Main Street, Cambridge, MA 02142
-	- Use code `MIT` to book with MIT rate.
+	- Use code `MIT7` to book with MIT rate.
 - [Le Meridien Boston Cambridge](https://www.marriott.com/hotels/travel/bosbm-le-meridien-boston-cambridge/)
 	- 20 Sidney Street, Cambridge, MA 02139
 	- Use code `MT2` to book Room Type 1 with MIT rate.
-- [Residence Inn Boston Cambridge](http://www.marriott.com/hotels/travel/boscm-residence-inn-boston-cambridge/)*
+- [Residence Inn Boston Cambridge](http://www.marriott.com/hotels/travel/boscm-residence-inn-boston-cambridge/)
 	- 6 Cambridge Center, Cambridge, MA 02142
 	- Use code `MT2` to book with MIT rate.
-- [Royal Sonesta Boston](http://www.sonesta.com/boston)
-	- 40 Edwin Land Boulevard, Cambridge, MA 02141
-	- Use code `MIT` to book with MIT rate.
-- [The Whitney Hotel](https://www.whitneyhotelboston.com/)
-	- 170 Charles Street, Boston, MA 02114
-	- Use code `MIT` to book with MIT rate.
 
