@@ -3,10 +3,8 @@
     "listing": "/info.html",
     "items": [
       "/posts/venue-transport.html",
-      "/posts/presenter-info.html",
       "/posts/travel-accomadation.html",
-      "/posts/dining.html",
-      "/posts/accessibility.html"
+      "/posts/presenter-info.html"
     ]
   }
 ]
