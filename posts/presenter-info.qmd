@@ -1,6 +1,6 @@
 ---
 title: "Presenter Info"
-description: "Talk & poster guidelines, timing, AV setup, file formats."
+description: "Talk & poster guidelines, timing, file formats."
 date: 2026-02-13
 categories: [presenters, logistics]
 ---
