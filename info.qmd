@@ -13,11 +13,7 @@ listing:
   filter-ui: true
 ---
 
-Here you’ll find practical information for **TU+ 11 (MIT, Apr 11–12, 2026)**—from presenter guidelines to venue maps, travel tips, and dining.
-
-::: callout-note
-**Quick tip:** Use the filters above the cards to jump straight to what you need.
-:::
+Here we provide some useful information for attending **TU+ 11 (MIT, Apr 11–12, 2026)** — from presenter guidelines to tips on local transportation and hotels.
 
 ## Details by Topic
 
