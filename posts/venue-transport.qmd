@@ -1,17 +1,20 @@
 ---
 title: "Venue & Transportation"
 description: "Buildings, rooms, campus maps, getting to MIT, local transit."
-date: 2026-01-18
+date: 2026-02-13
 categories: [venue, transportation]
 ---
 
-More information will be provided soon.
+## Getting to MIT
+- The [MBTA](https://ww.mbta.com) is the local transportation agency of the Greater Boston Area.
+	- Boston Logan Airport is served by the Silver Line, which is free from the airport.
+	- Long-distance buses arrive at South Station.
+	- Amtrak arrives at either North Station or South Station.
+	- Both North and South Stations are on subway lines.
+
+- Parking
+	- Parking information for visitors to MIT can be found [here](https://web.mit.edu/facilities/transportation/parking/visitors/public_parking.html).
 
 ## Venue
-- Building names, room numbers, entrance instructions.
-
-## Getting to MIT
-- Nearest airports, public transit (MBTA), rideshare, parking.
-
-## On-Campus Navigation
-- Maps, signage, registration desk, Wi-Fi instructions.
+- Tu+11 will be held at the Ray and Maria Stata Center at 32 Vassar Street, Cambridge, MA, 02139.
+- The Stata Center is a five minute walk from the Kendall/MIT subway stop on the Red Line.
