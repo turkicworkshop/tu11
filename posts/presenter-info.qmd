@@ -15,4 +15,4 @@ categories: [presenters, logistics]
 ## Flash talks (remote posters)
 - There will be one ``flash talk" session for remote poster presenters. 
 - Flash talks consist of 10-minute pre-recorded flash talks followed by 5-minute live Q&A sessions. 
-- If you are presenting a flash talk, please send us [turkicworkshop@gmail.com](turkicworkshop@gmail.com) a 10-minute recording of your presentation by the end of day on **April 10 (Friday)**. Feel free to present with either slides or posters.
+- If you are presenting a flash talk, please send us [turkicworkshop@gmail.com](mailto:turkicworkshop@gmail.com) a 10-minute recording of your presentation by the end of day on **April 10 (Friday)**. Feel free to present with either slides or posters.
