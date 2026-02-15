@@ -8,7 +8,11 @@ categories: [presenters, logistics]
 ## Oral presentations
 - Oral presentations will be 20 minutes of talk followed by 10 minutes of Q&A.
 
-## Posters
-- There will be two traditional in-person poster sessions and an online "flash talk" poster session. 
-- The in-person poster sessions will be held on the first floor of Stata Center. We recommend printing your poster on A1-sized paper. 
-- The online poster session will consist of 10-minute pre-recorded flash talks followed by 5-minute live Q&A sessions. If you are presenting your poster online, please send us a 10-minute recording of your presentation by the end of day on April 10 (Friday). Feel free to present with either slides or posters.
+## In-person posters
+- There will be two traditional in-person poster sessions held on the first floor of Stata Center. 
+- We recommend printing your poster on A1-sized paper. 
+
+## Flash talks (remote posters)
+- There will be one ``flash talk" session for remote poster presenters. 
+- Flash talks consist of 10-minute pre-recorded flash talks followed by 5-minute live Q&A sessions. 
+- If you are presenting a flash talk, please send us [turkicworkshop@gmail.com](turkicworkshop@gmail.com) a 10-minute recording of your presentation by the end of day on **April 10 (Friday)**. Feel free to present with either slides or posters.
