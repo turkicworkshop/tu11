@@ -70,11 +70,18 @@
     "text": "Oral presentations\n\nOral presentations will be 20 minutes of talk followed by 10 minutes of Q&A."
   },
   {
-    "objectID": "posts/presenter-info.html#posters",
-    "href": "posts/presenter-info.html#posters",
+    "objectID": "posts/presenter-info.html#in-person-posters",
+    "href": "posts/presenter-info.html#in-person-posters",
     "title": "Presenter Info",
-    "section": "Posters",
-    "text": "Posters\n\nThere will be two traditional in-person poster sessions and an online “flash talk” poster session.\nThe in-person poster sessions will be held on the first floor of Stata Center. We recommend printing your poster on A1-sized paper.\nThe online poster session will consist of 10-minute pre-recorded flash talks followed by 5-minute live Q&A sessions. If you are presenting your poster online, please send us a 10-minute recording of your presentation by the end of day on April 10 (Friday). Feel free to present with either slides or posters."
+    "section": "In-person posters",
+    "text": "In-person posters\n\nThere will be two traditional in-person poster sessions held on the first floor of Stata Center.\nWe recommend printing your poster on A1-sized paper."
+  },
+  {
+    "objectID": "posts/presenter-info.html#flash-talks-remote-posters",
+    "href": "posts/presenter-info.html#flash-talks-remote-posters",
+    "title": "Presenter Info",
+    "section": "Flash talks (remote posters)",
+    "text": "Flash talks (remote posters)\n\nThere will be one ``flash talk” session for remote poster presenters.\nFlash talks consist of 10-minute pre-recorded flash talks followed by 5-minute live Q&A sessions.\nIf you are presenting a flash talk, please send us turkicworkshop@gmail.com a 10-minute recording of your presentation by the end of day on April 10 (Friday). Feel free to present with either slides or posters."
   },
   {
     "objectID": "posts/venue-transport.html",
@@ -109,7 +116,7 @@
     "href": "program.html",
     "title": "Tu+",
     "section": "",
-    "text": "TU+ 11  at MIT\n      April 11–12, 2026\n      11th Workshop on Turkic and Languages in Contact with Turkic\n    \n  \n\n\n\n\n\nProgram is to be announced."
+    "text": "TU+ 11  at MIT\n      April 11–12, 2026\n      11th Workshop on Turkic and Languages in Contact with Turkic\n    \n  \n\n\n\n\n\nA tentative program for Tu+11 is available here.\nGuidelines for presenters can be found on the information page."
   },
   {
     "objectID": "posts/travel-accomadation.html",
