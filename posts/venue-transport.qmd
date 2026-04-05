@@ -1,7 +1,7 @@
 ---
 title: "Venue & Transportation"
 description: "Getting to MIT, local transit, buildings."
-date: 2026-02-13
+date: 2026-04-05
 categories: [venue, transportation]
 ---
 
@@ -16,5 +16,8 @@ categories: [venue, transportation]
 	- Parking information for visitors to MIT can be found [here](https://web.mit.edu/facilities/transportation/parking/visitors/public_parking.html).
 
 ## Venue
-- Tu+11 will be held at the Ray and Maria Stata Center at 32 Vassar Street, Cambridge, MA, 02139.
-- The Stata Center is a five minute walk from the Kendall/MIT subway stop on the Red Line.
+- Conference presentations and poster sessions will be held in 56-114 (Building 56, Room 114) at 21 Ames Street.
+– The [interactive MIT campus map](https://whereis.mit.edu/?go=56) is quite helpful.
+– Dinner on April 11 will be served in the Linguistics Department at the 8th floor lounge of Ray and Maria Stata Center (Building 32), 32 Vassar Street.
+- Both locations are within a five minute walk from the Kendall/MIT subway stop on the Red Line.
+![Building 56](../images/bldg56.png)

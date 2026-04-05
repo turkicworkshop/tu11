@@ -1,7 +1,7 @@
 ---
 title: "Presenter Info"
 description: "Talk & poster guidelines, timing, file formats."
-date: 2026-02-13
+date: 2026-04-05
 categories: [presenters, logistics]
 ---
 
@@ -9,7 +9,7 @@ categories: [presenters, logistics]
 - Oral presentations will be 20 minutes of talk followed by 10 minutes of Q&A.
 
 ## In-person posters
-- There will be two traditional in-person poster sessions held on the first floor of Stata Center. 
+- There will be two traditional in-person poster sessions held outside Room 56-114 (where oral presentations take place). 
 - We recommend printing your poster on A1-sized paper. 
 
 ## Flash talks (remote posters)
