@@ -16,8 +16,8 @@ categories: [venue, transportation]
 	- Parking information for visitors to MIT can be found [here](https://web.mit.edu/facilities/transportation/parking/visitors/public_parking.html).
 
 ## Venue
-- Main conference will take place in 56-114 (Building 56, Room 114), 21 Ames Street.
+- The main conference will take place in 56-114 (Building 56, Room 114), 21 Ames Street.
 - The [interactive MIT campus map](https://whereis.mit.edu/?go=56) is quite helpful.
 - Dinner on April 11 will be served in the Linguistics Department at the 8th floor lounge of Ray and Maria Stata Center (Building 32), 32 Vassar Street.
 - Both locations are within a five minute walk from the Kendall/MIT subway stop on the Red Line.
-<img src="../images/bldg56.png" width="450">
+![Building 56](../images/bldg56.png)
