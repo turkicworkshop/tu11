@@ -2,9 +2,10 @@
   {
     "listing": "/info.html",
     "items": [
+      "/posts/restaurants.html",
       "/posts/venue-transport.html",
-      "/posts/travel-accomadation.html",
-      "/posts/presenter-info.html"
+      "/posts/presenter-info.html",
+      "/posts/travel-accomadation.html"
     ]
   }
 ]
