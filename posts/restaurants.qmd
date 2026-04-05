@@ -1,15 +1,15 @@
 ---
 title: "Restaurants"
-description: "Restaurants near the conference venues."
+description: "Places to eat near the conference venues."
 date: 2026-04-05
 categories: [restaurant]
 ---
 
 ## Some restaurants near the conference venue
-- [Area Four](https://www.areafour.com/), some vegeterian and gluten-free options
+- [Area Four](https://www.areafour.com/) (some vegeterian and gluten-free options)
 - [Beantown Taqueria](https://beantowntaq.com/)
 - [CAVA](https://cava.com/locations/kendall-square-ma)
-- [Eastern Edge](https://www.easternedgefoodhall.com/), food court with several different restaurants
+- [Eastern Edge](https://www.easternedgefoodhall.com/) (food court with several different restaurants)
 - [Flour Bakery + Cafe](https://www.flourbakery.com/)
-- [Life Alive](https://www.lifealive.com/location/central-square), many VG/GF options
-- [Saloniki](https://www.salonikigreek.com/), some VG/GF options
+- [Life Alive](https://www.lifealive.com/location/central-square) (many VG/GF options)
+- [Saloniki](https://www.salonikigreek.com/) (some VG/GF options)
