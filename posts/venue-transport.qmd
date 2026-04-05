@@ -20,4 +20,4 @@ categories: [venue, transportation]
 - The [interactive MIT campus map](https://whereis.mit.edu/?go=56) is quite helpful.
 - Dinner on April 11 will be served in the Linguistics Department at the 8th floor lounge of Ray and Maria Stata Center (Building 32), 32 Vassar Street.
 - Both locations are within a five minute walk from the Kendall/MIT subway stop on the Red Line.
-![Building 56](../images/bldg56.png)
+![Building 56](../images/bldg56-2.png)
