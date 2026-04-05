@@ -6,7 +6,7 @@ format: html
 toc: false
 ---
 
-**Welcome to TU+11 at Massachusetts Institute of Technology (MIT)!** We are pleased to announce that the 11th iteration of the Workshop on Turkic and Languages in Contact with Turkic (TU+) will be hosted by MIT Linguistics. The workshop will be held at MIT, Cambridge, MA, on April 11-12, 2026 **in-person**. The abstract submissions are now open!
+**Welcome to TU+11 at Massachusetts Institute of Technology (MIT)!** We are pleased to announce that the 11th iteration of the Workshop on Turkic and Languages in Contact with Turkic (TU+) will be hosted by MIT Linguistics. The workshop will be held at MIT, Cambridge, MA, on April 11-12, 2026 **in-person**.
 
 TU+ is an annual workshop focusing on all aspects of linguistic research on **Turkic languages**, as well as on **languages in contact with Turkic** and on **languages spoken in regions where Turkic languages are spoken**. TU+ showcases theoretically informed and data-driven work across phonology, morphology, syntax, semantics, pragmatics, psycholinguistics, neurolinguistics, historical linguistics, and computational approaches.
 
@@ -20,8 +20,8 @@ Since 2019, papers presented at TU+ have been invited to appear in an online pro
 
 ### Invited Speakers
 
-- [**Yağmur Sağ**](https://www.yagmursag.com) (Swathmore College) — *Title TBA*
-- [**Sergei Tatevosov**](http://otipl.philol.msu.ru/staff/people/tatevosov/tatevosov_eng.php) (Lomonosov Moscow State University) — *Title TBA*
+- [**Yağmur Sağ**](https://www.yagmursag.com) (Swathmore College) — *Pseudo-incorporation: from event kinds to (in)definiteness*
+- [**Sergei Tatevosov**](http://otipl.philol.msu.ru/staff/people/tatevosov/tatevosov_eng.php) (Lomonosov Moscow State University) — *Ibrahim upset Leila, but she was not upset. A few observations about defeasible causative*
 
 ---
 
