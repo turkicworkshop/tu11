@@ -3,9 +3,10 @@ title: ""
 format: html
 ---
 
-A tentative program for Tu+11 is available [here](https://docs.google.com/document/d/1P0v2Tjfoa4D6LeWfZ_FFUYQURSVNXIBLpbjF23vFlvI/edit?usp=sharing).
+The final version of the program for Tu+11 is available [here](https://docs.google.com/document/d/1P0v2Tjfoa4D6LeWfZ_FFUYQURSVNXIBLpbjF23vFlvI/edit?usp=sharing).
 
-Guidelines for presenters can be found on the [information page](https://turkicworkshop.github.io/tu11/posts/presenter-info.html).
+Guidelines for [presenters](https://turkicworkshop.github.io/tu11/posts/presenter-info.html) and the information about the [venue](https://turkicworkshop.github.io/tu11/posts/venue-transport.html) can be found on the [information page](https://turkicworkshop.github.io/tu11/info.html).
+
 
 ```{r}
 #| label: setup-program
